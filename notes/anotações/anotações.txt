@@ -1,3 +1,4 @@
 1 - criando o player
 	1.1 - importando as sprites do player - FEITO
+	1.2 - criando o objeto do player - FEITO
 	
