@@ -13,3 +13,9 @@
 	3.2 - criando o objeto de tiro do player - FEITO
 	3.3 - fazer o jogador atirar ao apertar espaço - FEITO
 	3.4 - dando um efeito legal para o tiro - FEITO
+	3.5 - destruir o tiro quando ele sair da tela - FEITO
+	
+4 - Criando o primeiro inimigo
+	4.1 - importando a sprite do inimigo - FEITO
+	4.2 - criando o objeto do inimigo - FEITO
+	4.3 - fazendo o inimigo se mover para baixo - FEITO

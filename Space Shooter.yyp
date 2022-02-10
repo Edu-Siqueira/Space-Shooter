@@ -2,8 +2,10 @@
   "resources": [
     {"id":{"name":"spr_player_shot","path":"sprites/spr_player_shot/spr_player_shot.yy",},"order":1,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
+    {"id":{"name":"spr_enemy_1","path":"sprites/spr_enemy_1/spr_enemy_1.yy",},"order":2,},
     {"id":{"name":"obj_player_shot","path":"objects/obj_player_shot/obj_player_shot.yy",},"order":1,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
+    {"id":{"name":"obj_enemy_1","path":"objects/obj_enemy_1/obj_enemy_1.yy",},"order":2,},
     {"id":{"name":"anotações","path":"notes/anotações/anotações.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
