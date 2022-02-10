@@ -11,3 +11,5 @@
 3 - Atirando
 	3.1 - importando as sprites do tiro do player - FEITO
 	3.2 - criando o objeto de tiro do player - FEITO
+	3.3 - fazer o jogador atirar ao apertar espaço - FEITO
+	3.4 - dando um efeito legal para o tiro - FEITO
