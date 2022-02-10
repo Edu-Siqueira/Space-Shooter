@@ -19,3 +19,10 @@
 	4.1 - importando a sprite do inimigo - FEITO
 	4.2 - criando o objeto do inimigo - FEITO
 	4.3 - fazendo o inimigo se mover para baixo - FEITO
+	
+5 - Fazendo o inimigo 01 atirar
+	5.1 - importando a sprite do tiro - FEITO
+	5.2 - criando o objeto do tiro - FEITO
+	5.3 - fazendo o tiro ir pra baixo - FEITO
+	5.4 - fazendo ele atirar de fato - FEITO
+	5.5 - adicionando um efeito no tiro - FEITO
