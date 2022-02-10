@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Definindo a movimetação do player
 
 // Movimentação do player
 var up = keyboard_check(ord("W"));
