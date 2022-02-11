@@ -31,4 +31,5 @@
 
 6 - Fazendo o tiro do player acertar o inimigo
 	6.1 - se destruir ao acertar o inimigo - FEITO
-	6.2 - criar o impacto do tiro do player
+	6.2 - criar o impacto do tiro do player - FEITO
+	6.3 - fazer o impacto do tiro desaparcer no final da animação - FEITO
