@@ -33,3 +33,6 @@
 	6.1 - se destruir ao acertar o inimigo - FEITO
 	6.2 - criar o impacto do tiro do player - FEITO
 	6.3 - fazer o impacto do tiro desaparcer no final da animação - FEITO
+	
+7 - Fazendo o tiro do inimigo acertar o player
+	7.1 - destruindo o tiro do inimigo ao sair da room - FEITO
