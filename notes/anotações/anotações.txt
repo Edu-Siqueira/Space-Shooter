@@ -36,3 +36,10 @@
 	
 7 - Fazendo o tiro do inimigo acertar o player
 	7.1 - destruindo o tiro do inimigo ao sair da room - FEITO
+	
+8 - Destruindo o inimigo ao levar um tiro
+	8.1 - fazer o tiro do player destruir o inimigo - FEITO
+	8.2 - fazer com que ao ser destruido o inimigo crie uma explosão - FEITO
+
+9 - Pequenos ajustes 1
+	9.1 - fazendo o inimigo ser destruido ao sair da tela - FEITO
