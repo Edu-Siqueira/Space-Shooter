@@ -43,3 +43,7 @@
 
 9 - Pequenos ajustes 1
 	9.1 - fazendo o inimigo ser destruido ao sair da tela - FEITO
+	9.2 - Adicionando o efeito parallax ao background - FEITO
+	
+10 - Criando o Background do jogo
+	10.1 - importando o sprite do backgound

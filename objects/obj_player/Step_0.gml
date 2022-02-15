@@ -11,3 +11,9 @@ x += (right - left) * velocidade;
 
 // tiro do player
 Player_Shoot();
+
+// impedindo o player de sair da tela
+if (y > room_height)
+{
+	y = room_height;
+}
