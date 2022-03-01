@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_fundo_extra2","path":"sprites/spr_fundo_extra2/spr_fundo_extra2.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_fundo_extra2",
     "tags": [],
     "resourceType": "GMSequence",

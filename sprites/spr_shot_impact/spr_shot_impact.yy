@@ -75,7 +75,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_shot_impact","path":"sprites/spr_shot_impact/spr_shot_impact.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_shot_impact",
     "tags": [],
     "resourceType": "GMSequence",

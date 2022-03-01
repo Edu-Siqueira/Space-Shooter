@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_enemy_2","path":"sprites/spr_enemy_2/spr_enemy_2.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_enemy_2",
     "tags": [],
     "resourceType": "GMSequence",

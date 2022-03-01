@@ -54,4 +54,11 @@
 	11.1 - importando a sprite do inimigo 2 - FEITO
 	11.2 - criando o objeto do inimigo 2 - FEITO
 	11.3 - fazendo o inimigo 2 herdar comportamentos do inimigo 1 - FEITO
-	11.4 - fazendo o inimigo 2 mudar de direção ao chegar no meio da room
+	11.4 - fazendo o inimigo 2 mudar de direção ao chegar no meio da room - FEITO
+	11.5 - fazendo o inimigo 2 ter o seu próprio tiro - FEITO
+	
+12 - Criando o tiro do segundo tipo de inimigo
+	12.1 - importando a sprite - FEITO
+	12.2 - criando o objeto do tiro - FEITO
+	12.3 - fazendo com que o tiro 2 seja filho do tiro 1 - FEITO
+	12.4 - iniciar seguindo o player - FEITO
