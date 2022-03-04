@@ -11,4 +11,11 @@ speed = 6;
 
 // achando a direção que o tiro deve ir
 // e indo para essa direção
-direction = point_direction(x, y, obj_player.x, obj_player.y);
+
+// checando se o player existe no jogo
+if (instance_exists(obj_player))
+{
+	direction = point_direction(x, y, obj_player.x, obj_player.y);
+}
+
+image_angle = direction + 90;

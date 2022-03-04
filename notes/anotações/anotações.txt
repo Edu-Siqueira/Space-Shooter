@@ -62,3 +62,4 @@
 	12.2 - criando o objeto do tiro - FEITO
 	12.3 - fazendo com que o tiro 2 seja filho do tiro 1 - FEITO
 	12.4 - iniciar seguindo o player - FEITO
+	12.5 - fazer o tiro ir em direção do player apenas se ele existir - FEITO
