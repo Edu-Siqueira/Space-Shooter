@@ -13,6 +13,7 @@
     {"id":{"name":"spr_fundo_extra","path":"sprites/spr_fundo_extra/spr_fundo_extra.yy",},"order":1,},
     {"id":{"name":"obj_player_shot","path":"objects/obj_player_shot/obj_player_shot.yy",},"order":1,},
     {"id":{"name":"spr_enemy_explosion","path":"sprites/spr_enemy_explosion/spr_enemy_explosion.yy",},"order":1,},
+    {"id":{"name":"obj_controller","path":"objects/obj_controller/obj_controller.yy",},"order":8,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"spr_enemy_shot_02","path":"sprites/spr_enemy_shot_02/spr_enemy_shot_02.yy",},"order":4,},
     {"id":{"name":"spr_brilho_inimigo1","path":"sprites/spr_brilho_inimigo1/spr_brilho_inimigo1.yy",},"order":5,},
