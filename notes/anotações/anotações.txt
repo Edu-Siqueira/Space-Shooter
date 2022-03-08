@@ -67,6 +67,7 @@
 13 - Criação procedural de inimigos
 	13.1 - fazendo com que o controller crie um inimigo de tempos em tempos - FEITO
 		13.1.1 - fazendo com que a posição X e Y dos inimigos seja aleatória
+	13.2 - gerando inimigos diferentes com base no level atual - FEITO
 
 14 - Criando o objeto controlador do jogo
 	14.1 - ganhar pontos ao destruir um inimigo
@@ -75,3 +76,8 @@
 	15.1 - criando a variavel de pontos - FEITO
 	15.2 - ganhando pontos ao destruir um inimigo - FEITO
 	15.3 - fazendo com que inimigos pontos deem pontos diferentes - FEITO
+	
+16 - Criando sistema de levels
+	16.1 - iniciando a variavel level - FEITO
+	16.2 - exibindo o level - FEITO
+	16.3 - aumentar o level ao atingir uma certa quantidade de pontos - FEITO
