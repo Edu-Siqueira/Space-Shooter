@@ -65,7 +65,7 @@
 	12.5 - fazer o tiro ir em direção do player apenas se ele existir - FEITO
 	
 13 - Criação procedural de inimigos
-	13.1 - fazendo com que o controller crie um inimigo de tempos em tempos
+	13.1 - fazendo com que o controller crie um inimigo de tempos em tempos - FEITO
 		13.1.1 - fazendo com que a posição X e Y dos inimigos seja aleatória
 
 14 - Criando o objeto controlador do jogo
@@ -73,4 +73,5 @@
 	
 15 - Criando um sistema de pontos
 	15.1 - criando a variavel de pontos - FEITO
-	15.2 - ganhando pontos ao destruir um inimigo
+	15.2 - ganhando pontos ao destruir um inimigo - FEITO
+	15.3 - fazendo com que inimigos pontos deem pontos diferentes - FEITO

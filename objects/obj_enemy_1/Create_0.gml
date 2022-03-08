@@ -4,6 +4,9 @@ vspeed = 4;
 // iniciando o alarme do tiro
 alarm[0] = random_range(1, 2) * room_speed;
 
+// definindo a pontuação ganha ao destruir inimigo
+pontos = 10;
+
 // criando metodo de tiro do inimigo
 Enemy_Shoot = function()
 {
