@@ -111,7 +111,7 @@
     {"CopyToMask":-1,"filePath":"datafiles/Assets/Assets/SpShooter","resourceVersion":"1.0","name":"SpShooter.exe","resourceType":"GMIncludedFile",},
   ],
   "MetaData": {
-    "IDEVersion": "2022.2.0.614",
+    "IDEVersion": "2022.2.1.618",
   },
   "resourceVersion": "1.5",
   "name": "Space Shooter",
