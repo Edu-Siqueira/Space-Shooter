@@ -85,3 +85,14 @@
 	16.1 - iniciando a variavel level - FEITO
 	16.2 - exibindo o level - FEITO
 	16.3 - aumentar o level ao atingir uma certa quantidade de pontos - FEITO
+	
+17 - Fazendo com que o tiro seja "automático"
+	17.1 - criando o evento para o tiro - FEITO
+	
+18 - Fazendo com que o tiro do player tenha levels
+	18.1 - criando o sistema de levels - FEITO
+	18.2 - criando o sistema de debug dos levels - FEITO
+	
+19 - Criando o segundo tiro do player
+	19.1 - importando a sprite
+	19.2 - criando o objeto do segundo tiro
