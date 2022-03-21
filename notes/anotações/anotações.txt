@@ -92,7 +92,15 @@
 18 - Fazendo com que o tiro do player tenha levels
 	18.1 - criando o sistema de levels - FEITO
 	18.2 - criando o sistema de debug dos levels - FEITO
+	18.3 - fazendo o player da o segundo tiro no level 2 - FEITO
 	
 19 - Criando o segundo tiro do player
-	19.1 - importando a sprite
-	19.2 - criando o objeto do segundo tiro
+	19.1 - importando a sprite - FEITO
+	19.2 - criando o objeto do segundo tiro - FEITO
+	19.3 - herdar caracteristicas do primeiro tiro - FEITO
+	19.4 - ajustando o efeito de brilho do tiro 2 - FEITO
+	19.5 - Criando 2 tiros por vez (1 em cada asa) - FEITO
+	19.6 - fazer o tiro mudar de direção
+		19.6.1 - fazendo o tiro ganhar uma direção - FEITO
+		19.6.2 - fazendo o tiro inverter a direção horizontal - FEITO
+	

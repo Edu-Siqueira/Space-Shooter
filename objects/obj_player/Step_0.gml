@@ -17,18 +17,7 @@ x += (right - left) * velocidade;
 
 // ativando o alarme pelo step a cada 1 segundo
 // pensar em uma forma de ativar o alarme somente se ele não estiver ativo
-if (keyboard_check(vk_space) && alarm[0] == -1)
-{
-	// ativando o alarme para garantir que o código
-	// terá que esperar para criar o tiro
-	alarm[0] = Shot_Cooldown;
-	
-	// método que cria o tiro
-	Player_Shoot();
-	
-	// criar o tiro ao apertar espaço
-	// e depois poder atirar somente após 1 segundo.
-}
+Player_Shoot();
 
 // fazendo com que o level do tiro suba sempre que
 // que a seta para cima seja pressionada
