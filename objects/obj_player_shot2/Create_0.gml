@@ -4,7 +4,5 @@
 // Inherit the parent event
 event_inherited();
 
-alarm[0] = room_speed / 2 // meio segundo
-
 // mudando o brilho
 brilho = spr_brilho_inimigo1;

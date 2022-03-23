@@ -103,4 +103,5 @@
 	19.6 - fazer o tiro mudar de direção
 		19.6.1 - fazendo o tiro ganhar uma direção - FEITO
 		19.6.2 - fazendo o tiro inverter a direção horizontal - FEITO
+	19.7 - criando o terceiro tipo de tiro
 	
